@@ -1,16 +1,37 @@
-### Hi there 👋
-
-<!--
-**withjannis/withjannis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### hi there i'm jannis
+#### you can find me here
+<!-- icons from here:
+    https://github.com/edent/SuperTinyIcons
 -->
+
+<p align="center">
+<a href="https://twitter.com/withjannis" target="_blank">
+  <img alt="jannis' twitter account" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg"/>
+</a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://github.com/withjannis" target="_blank">
+  <img alt="jannis' github account" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg"/>
+</a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
+<a href="https://twitch.tv/withjannis" target="_blank">
+  <img alt="jannis' twitch account" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitch.svg"/>
+</a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
+<a href="https://discordapp.com/users/429764749107003392" target="_blank">
+  <img alt="jannis' discord user" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg"/>
+</a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
+<a href="https://linkedin.com/in/jannisimhof" target="_blank">
+  <img alt="jannis' linkedin account" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"/>
+</a>
+<br>
+</p>
+
+---
+
+<a href="https://www.buymeacoffee.com/withjannis" target="_blank">
+  <img align="left" alt="buy jannis a book account" width="200px" src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" />
+</a>
