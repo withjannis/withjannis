@@ -51,7 +51,6 @@
         <td><b>docker</b></td>
         <td><img width="50px" alt="docker" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/docker.svg"/></td>
     </tr>
-    <tr>
 </table>
 
 ---
