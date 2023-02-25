@@ -1,7 +1,6 @@
 # hi there i'm jannis
 
 ## technical experience 
-<p align="center">
 | name            | logo                                                                                                                               |
 |-----------------|------------------------------------------------------------------------------------------------------------------------------------|
 | **linux**       | <img width="50px" alt="linux" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linux.svg"/>           |
@@ -12,7 +11,6 @@
 | **JavaScript**  | <img width="50px" alt="javascript" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg"/> |
 | **github/-lab** | <img width="50px" alt="github/-lab" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg"/>    |
 | **docker**      | <img width="50px" alt="docker" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/docker.svg"/>         |
-</p>
 ---
 
 ## you can find me here
