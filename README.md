@@ -1,6 +1,7 @@
 # hi there i'm jannis
 
 ## technical experience 
+<!--
 | name            | logo                                                                                                                               |
 |-----------------|------------------------------------------------------------------------------------------------------------------------------------|
 | **linux**       | <img width="50px" alt="linux" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linux.svg"/>           |
@@ -11,6 +12,48 @@
 | **JavaScript**  | <img width="50px" alt="javascript" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg"/> |
 | **github/-lab** | <img width="50px" alt="github/-lab" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg"/>    |
 | **docker**      | <img width="50px" alt="docker" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/docker.svg"/>         |
+-->
+
+<table>
+    <tr>
+        <td><b>name</b></td>
+        <td><b>logo</b></td>
+    </tr>
+    <tr>
+        <td><b>linux</b></td>
+        <td><img width="50px" alt="linux" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linux.svg"/></td>
+    </tr>
+    <tr>
+        <td><b>vi</b></td>
+        <td><img width="50px" alt="vim" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vim.svg"/></td>
+    </tr>
+    <tr>
+        <td><b>git</b></td>
+        <td><img width="50px" alt="git" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg"/></td>
+    </tr>
+    <tr>
+        <td><b>c++</b></td>
+        <td><img width="50px" alt="c++" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cplusplus.svg"/></td>
+    </tr>
+    <tr>
+        <td><b>python</b></td>
+        <td><img width="50px" alt="python" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg"/></td>
+    </tr>
+    <tr>
+        <td><b>JavaScript</b></td>
+        <td><img width="50px" alt="javascript" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg"/></td>
+    </tr>
+    <tr>
+        <td><b>github/-lab</b></td>
+        <td><img width="50px" alt="github/-lab" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg"/></td>
+    </tr>
+    <tr>
+        <td><b>docker</b></td>
+        <td><img width="50px" alt="docker" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/docker.svg"/></td>
+    </tr>
+    <tr>
+</table>
+
 ---
 
 ## you can find me here
