@@ -1,17 +1,18 @@
 # hi there i'm jannis
 
-## technical expierience
-| name            | level    | logo                                                                                                                              |
-|-----------------|----------|-----------------------------------------------------------------------------------------------------------------------------------|
-| **linux**       | medium   |<img width="50px" alt="linux" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linux.svg"/>           |
-| **vi**          | medium   |<img width="50px" alt="vim" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vim.svg"/>           |
-| **git**         | medium   |<img width="50px" alt="git" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg"/>               |
-| **c++**         | low      |<img width="50px" alt="c++" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cplusplus.svg"/>         |
-| **python**      | moderate |<img width="50px" alt="python" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg"/>         |
-| **JavaScript**  | low      |<img width="50px" alt="javascript" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg"/> |
-| **github/-lab** | medium   |<img width="50px" alt="github/-lab" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg"/>    |
-| **docker**      | moderate |<img width="50px" alt="docker" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/docker.svg"/>         |
-
+## technical experience 
+<p align="center">
+| name            | logo                                                                                                                               |
+|-----------------|------------------------------------------------------------------------------------------------------------------------------------|
+| **linux**       | <img width="50px" alt="linux" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linux.svg"/>           |
+| **vi**          | <img width="50px" alt="vim" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vim.svg"/>               |
+| **git**         | <img width="50px" alt="git" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg"/>               |
+| **c++**         | <img width="50px" alt="c++" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cplusplus.svg"/>         |
+| **python**      | <img width="50px" alt="python" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg"/>         |
+| **JavaScript**  | <img width="50px" alt="javascript" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg"/> |
+| **github/-lab** | <img width="50px" alt="github/-lab" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg"/>    |
+| **docker**      | <img width="50px" alt="docker" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/docker.svg"/>         |
+</p>
 ---
 
 ## you can find me here
