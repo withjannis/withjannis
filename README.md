@@ -61,7 +61,7 @@
 -->
 
 <p align="center">
-<a href="https://twitter.com/withjannis">
+<a href="https://twitter.com/withjannis" target="_blank">
   <img alt="jannis' twitter account" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg"/>
 </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
