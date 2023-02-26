@@ -1,4 +1,4 @@
-<body style="background-color: #202124">
+<body>
   <h1>hi there i'm jannis</h1>
   <h2>technical experience</h2>
   <table>
