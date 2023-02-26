@@ -65,19 +65,19 @@
   <img alt="jannis' twitter account" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg"/>
 </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://github.com/withjannis">
+<a href="https://github.com/withjannis" target="_blank">
   <img alt="jannis' github account" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg"/>
 </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://twitch.tv/withjannis">
+<a href="https://twitch.tv/withjannis" target="_blank">
   <img alt="jannis' twitch account" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitch.svg"/>
 </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://discordapp.com/users/429764749107003392">
+<a href="https://discordapp.com/users/429764749107003392" target="_blank">
   <img alt="jannis' discord user" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg"/>
 </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="https://linkedin.com/in/jannisimhof">
+<a href="https://linkedin.com/in/jannisimhof" target="_blank">
   <img alt="jannis' linkedin account" width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"/>
 </a>
 <br>
