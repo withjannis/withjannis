@@ -11,7 +11,7 @@
           <td><img width="50px" alt="linux" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linux.svg"/></td>
       </tr>
       <tr>
-          <td><b>vi</b></td>
+          <td><b>vim</b></td>
           <td><img width="50px" alt="vim" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vim.svg"/></td>
       </tr>
       <tr>
