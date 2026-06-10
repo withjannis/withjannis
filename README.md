@@ -1,21 +1,6 @@
 <body>
   <h2>hi there i'm jannis</h2>
   
-  ```json
-  {
-      "projects": [
-          {
-              "name": "NameHealth",
-              "location": "https://namehealth.org/"
-              "description": "provide DNS visibility"
-          }
-      ]
-      "socials": [],
-      "languages": ["rust", "python"] 
-  
-  }
-  ```
-
   <hr>
   
   <br>
